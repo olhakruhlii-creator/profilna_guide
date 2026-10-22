@@ -1,0 +1,16 @@
+{
+  "name": "Готуємось до старшої профільної",
+  "short_name": "Профільна",
+  "description": "Практичний навігатор для академічних ліцеїв: дорожня карта, чеклісти, історії ліцеїв, посібник.",
+  "lang": "uk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#b8fd73",
+  "theme_color": "#2e6ef6",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
